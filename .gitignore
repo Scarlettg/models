@@ -90,3 +90,13 @@ ENV/
 
 # PyCharm
 .idea/
+
+# Tar packages
+compressed/
+
+#swaps
+*.swp
+*.bak
+
+# out files
+*.out
